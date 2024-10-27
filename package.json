@@ -1,0 +1,19 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Botache/Chess.git"
+  },
+  "author": "Daniel BOtache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Botache/Chess/issues"
+  },
+  "homepage": "https://github.com/Daniel-Botache/Chess#readme",
+  "description": ""
+}
